@@ -63,3 +63,5 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+# Simple form gem for the creation of built-in forms
+gem "simple_form", github: "heartcombo/simple_form"
